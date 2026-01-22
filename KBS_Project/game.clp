@@ -1,0 +1,4 @@
+(defrule execution
+    => 
+    (println "Sucess!")
+)

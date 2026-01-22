@@ -1,0 +1,8 @@
+(unwatch all)
+(clear)
+(load definitions.clp)
+(load kernel.clp)
+(load data.clp)
+(load game.clp)
+(reset)
+(run)
