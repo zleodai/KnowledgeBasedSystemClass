@@ -1,0 +1,2 @@
+# KnowledgeBasedSystemClass
+Work for class
