@@ -1,4 +1,4 @@
 # KBS Project
-by Leo Dai, Lawrence Benitez
+by Leo Dai, Lawrence Benitez, Owen Dewing
 
 Documents in Docs
