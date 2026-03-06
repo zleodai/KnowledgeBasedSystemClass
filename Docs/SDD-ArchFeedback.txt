@@ -1,0 +1,58 @@
+
+Documentation Feedback ~ Deliverable #3
+Software Design Document ~ Architecture
+CMSI 627 Spring 2026 ~ DND KBS
+=======================================
+
+SECTION 1.1 – PROBLEM STATEMENT & OBJECTIVES
+   Domain segment: defined ~ done
+   Problem segment: defined ~ done
+      You mention "the kids"; does this mean you will make sure the text
+      of the game is understandable and appropriate for children?  What
+      age is the threshold for "child"?
+   Objectives segment: defined ~ done
+   Scope Boundaries segment: defined ~ done
+
+SECTION 1.2 – KNOWLEDGE REPRESENTATION & ONTOLOGY SCOPE
+   Representation segment: defined ~ done
+   Core entities segment: defined ~ done
+   Relationships segment: defined ~ done
+   Constraints segment: defined ~ done
+   Artifacts segment: defined ~ done
+
+SECTION 1.3 – INFERENCE & REASONING STRATEGY
+   Method segment: defined ~ done
+      Good job with the detail on this section!
+   Conflict resolution segment: defined ~ done
+   Explanation segment: defined ~ done
+      Good rule-based operation deliniation
+   Performance segment: defined ~ done
+      Excellent analysis here.
+
+SECTION 1.4 – KNOWLEDGE ACQUISITION & VALIDATION PLAN
+   Sources segment: now we're back to Oregon Trail?  Not DnD?
+   Elicitation segment: defined ~ done
+   Validation segment: defined ~ done
+   Governance segment: defined ~ done
+
+SECTION 1.5 – SYSTEM ARCHITECTURE & INTEGRATION
+   Components segment: defined ~ done
+   Integrations segment: addressed ~ done
+   Non-functional segment: defined ~ done
+   Deployment segment: defined ~ done
+
+
+OVERALL ASSESSMENT:
+   Category                          Points
+   Problem statement                1 of 1 point
+   Knowledge representation         1 of 1 point
+   Inference/reasoning              1 of 1 point
+   Knowledge acquisition            1 of 1 point
+   System architecture              1 of 1 point
+                                    ============
+   Subtotal                         5 of 5 points
+   ------------------------------------------------------
+   Your Total Percentage:  5/5 = 100% which is an A-plus for this deliverable
+
+
+
