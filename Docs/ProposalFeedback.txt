@@ -1,0 +1,44 @@
+
+CMSI 627 Spring 2026
+Project Proposal Feedback
+Project: DND KBS
+=========================
+DELIVERABLE D1
+--------------
+   Proposal Document
+      Verbal Description [2 points]:
+         Good job on this section.  Succinct, but covers the required
+         elements for the proposal.  Imporessive idea for using KBS for
+         this purpose.
+
+      User Base [2 points]:
+         Good work here, too.  Pretty simple for a game to determine the
+         user base for games, right?  Duh...
+
+      Team Interest [1 point]:
+         Good enough for the point, but think about this in terms of an
+         'elevator speech' where you have two minutes to define the whole
+         project to someone.  You cite your love of playing and creativity
+         as driving factors, but what about technical expertise?  Ability
+         to make up a story?  Creating a fantasy world with a narrative?
+         Don't discount these topics in this kind of write-up.
+
+
+DELIVERABLE D2
+--------------
+   Proposal Presentation [Slides and video] [3 points]:
+      Slides:
+         Your presentation slides look good.  You three have obviously
+         learned a great deal from CMSI 4071/4072 in terms of putting a
+         good slide show together.  I like the color scheme and the fact
+         that you only state what you need to on each slide.  Good job!
+
+
+Summary:
+--------
+TOTALS
+   5 points for document
+   5 point for slides
+  10 points total for the proposal deliverables
+
+Nice job overall!  Keep up the good work.
