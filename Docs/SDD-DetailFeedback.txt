@@ -1,0 +1,99 @@
+
+Documentation Feedback ~ Deliverable #4
+Software Design Document ~ Detailed Design
+CMSI 4072 Spring 2026
+==========================================
+
+SECTION 2.1 - AUGMENTED PROBLEM STATEMENT
+   Expands the preliminary problem statement ~ Good
+   Detailed functional and non-functional requirements ~ Good
+   Constraints, and assumptions ~ Good
+   Measurable success criteria and edge cases ~ Good
+
+   The section would be more complete if it explicitly framed the system as
+   a knowledge-based system rather than primarily as a game. Additional
+   detail on the knowledge problem being modeled (e.g., survival reasoning
+   under uncertainty) would strengthen the justification. Including a
+   clearer statement of the system’s intended users and operational context
+   would also improve completeness at the SDD level.
+
+SECTION 2.2 - DETAILED KNOWLEDGE REPRESENTATION & ONTOLOGY SCOPE
+   Formal representation of knowledge (rules, ontology, frames) ~ Excellent
+   Entity definitions ~ Excellent
+   Relationships and constraints ~ Excellent
+   Diagrams ~ Only one, but it is complete
+
+   This section is one of the strongest in the document.
+   While the entities and relationships are well listed, the section would
+   benefit from more explicit formalization, such as example fact templates
+   or sample CLIPS fact structures. Additionally, although a diagram is
+   referenced, its explanation in text is minimal; describing how the
+   diagram supports reasoning flow would strengthen traceability.
+
+SECTION 2.3 – INFERENCE AND REASONING STRATEGY
+   Reasoning mechanisms [forward/backward chaining, hybrid] ~ Excellent
+   Conflict resolution ~ appropriate to domain
+   Explanation generation ~ good
+   Performance optimizations ~ good
+
+   Explanation facilities are described in an informal way that fits a game
+   context but fall short of a full SDD explanation requirement. The design
+   would be stronger if it explicitly stated how rule firings or state
+   transitions could be traced or explained for debugging or validation.
+   Including a concrete example of rule activation order or conflict
+   resolution would make the reasoning strategy more verifiable.
+
+SECTION 2.4 – KNOWLEDGE ACQUISITION AND VALIDATION PLAN
+   How knowledge will be gathered ~ clear and credible
+   How knowledge will be encoded ~ Good
+   How knowledge will be reviewed ~ demonstrate good engineering discipline
+   How knowledge will be tested ~ well structured
+
+   The acquisition process could be strengthened by clarifying who the
+   knowledge authority is (historical realism vs. gameplay design goals).
+   More explicit success criteria for validation (e.g., measurable outcomes
+   or acceptance conditions) would improve completeness.
+
+SECTION 2.5 – SYSTEM ARCHITECTURE & INTEGRATION
+   Detailed architecture diagrams ~ only one, but shows data flow
+   Detailed component specifications ~ well-defined
+   Detailed data flow ~ supports the diagram
+   Integration with external systems ~ N/A
+
+SECTION 2.6 – PROJECT SCHEDULE & MILESTONES
+   Timeline ~ excellent
+   Major deliverables ~ excellent
+   Checkpoints for development ~ excellent
+   Checkpoints for testing ~ excellent
+   Checkpoints for deployment ~ excellent
+
+   The schedule is realistic, well paced, and clearly aligned with the
+   semester timeline. Each week is associated with concrete deliverables,
+   showing a logical progression from planning through implementation and
+   testing. The milestones demonstrate awareness of incremental development
+   and integration risks.
+
+----------------------------------------------
+OVERALL ASSESSMENT:
+   Category                          Points
+   Augmented Problem Statement:         2 of  2
+   Detailed Knowledge Rep:              2 of  2
+   Inference And Reasoning:             2 of  2
+   Knowledge Acq & Val Plan:            2 of  2
+   System Arch & Integration:           2 of  2
+   Schedule & Milestones:               5 of  5
+                                     ===========
+   Subtotal                            15 of 15
+   ------------------------------------------------------
+   Total Percentage:  15/15 = 100% which is an A-plus
+
+Overall Assessment
+==================
+Overall, the document demonstrates strong alignment with a detailed
+Knowledge-Based System SDD.  Sections 2.2 and 2.4 are particularly robust,
+while Sections 2.3 and 2.5 would benefit from more concrete examples and
+formal traceability.  With modest expansion in explanation depth and
+formalization, the document would fully satisfy the detailed design
+expectations outlined in Sections 2.1 through 2.6.
+
+Very nice work, guys!  You obviously remember your 4071/4072 experience!
