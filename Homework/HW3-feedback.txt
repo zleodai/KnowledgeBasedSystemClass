@@ -1,0 +1,50 @@
+
+CMSI 627 KNOWLEDGE BASED SYSTEMS
+SPRING SEMESTER 2026
+HOMEWORK 03 EVALUATION
+====================================================
+
+Comments and feedback:
+
+Problem 7.4, 100%
+
+Problem 7.8, 100%
+
+Problem 7.16, 100%
+
+Problem 8.18, 100%
+
+Problem 8.28, 100%
+
+Problem 8.29, 100%
+
+Overall, very nice work on this assignment!  Keep it up...
+
+It is difficult to evaluate your work on programs with everything contained
+in one file.  It is better to make multiple files in a directory and name
+them appropriately.  It's no more work but is much better, again, in terms
+of maintainability.  I realize this was not specifically stated on the page
+which states the problems, but it's good practice nevertheless.  You do
+very good work, so this is something you can consider for later!
+
+====================================================
+ASSESSMENT:
+====================================================
+TOTAL POSSIBLE POINTS: 60 = 100%
+
+Your evaluation:
+
+Ch 7 # 4: 10 out of 10
+Ch 7 # 8: 10 out of 10
+Ch 7 #16: 10 out of 10
+Ch 8 #18: 10 out of 10
+Ch 8 #28: 10 out of 10
+Ch 8 #29: 10 out of 10
+         -------------
+ total:   60 out of 60 = 100% which is an A-plus
+
+Excellent finish to the semester!  I look forward to seeing your project
+presentation this week and I wish you the very best of luck in your future
+endeavors.  It has been my pleasure having you in classes during your LMU
+career!  Keep in touch!
+
