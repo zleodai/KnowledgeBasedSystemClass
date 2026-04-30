@@ -149,7 +149,7 @@
    (printout t "Prices:" crlf)
    (printout t "  oxen: $40 per yoke of 2 oxen" crlf)
    (printout t "  food: $0.20 per lb" crlf)
-   (printout t "  water: $0.05 per gallon" crlf)
+   (printout t "  water: $0.20 per gallon" crlf)
    (printout t "  clothing: $10 per set" crlf)
    (printout t "  bullets: $2 per box" crlf)
    (printout t "  wheel/axle/tongue: $10 each" crlf))
