@@ -1,0 +1,47 @@
+
+Documentation Feedback
+Project Report Term Paper Document
+CMSI 627 Spring 2026
+========================================
+Your report clearly explains what the project was, the initial ambition of
+making it fully rule-driven, and the learning goals associated with the
+project.  This directly aligns with the assignment's intent to explain what
+you built and what you were trying to accomplish.  However, the focus was
+more on experience than rather than motivation.
+
+You have identied your adaptability to implementation challenges, your
+willingness to scale back ambitions when/if necessary, your effective
+teamwork and communication skills, and the successful narrowing of scope
+to core mechanics.  You do not merely list positives, but explain why
+adaptability mattered and how it contributed to success.
+
+A central theme of the paper is the architectural pivot from a fully
+rule-driven CLIPS game to a hybrid approach combining CLIPS rules with
+procedural functions.
+
+Your report explains why the original approach failed, why CLIPS struggled
+with strict sequencing and game loops, and why the revised approach was more
+appropriate.  This directly addresses typical prompts about what changed
+and why.
+
+Your report also discusses underestimating time requirements, your struggles
+with managing a large rule base, stress near deadlines, and the difficulty
+of retrofitting an unsuitable architecture.  While no single dramatic
+"screw-up" is highlighted, the discussion is honest and reflective, focusing
+on planning and architectural fit.
+
+Further, the team reflects on learning by addressing how CLIPS differs from
+traditional programming paradigms, the importance of matching architecture
+to problem type, and the realities of collaborative development.  However,
+the learning discussion is somewhat high-level; it focuses more on process
+than on deeper KBS-specific insights (e.g., inference behavior, conflict
+resolution, rule interactions).
+
+Bottom line:
+For the subset of Project Report Term Paper questions it addresses, this
+report is self-reflective, coherent, and appropriate for CMSI 627 course
+expectations.  While it could be strengthened with deeper technical
+reflection on CLIPS inference mechanics, it successfully meets the
+assignment's reflective and retrospective goals.
+
+GREAT WORK!
